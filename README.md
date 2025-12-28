@@ -91,6 +91,9 @@ The dashboard transforms raw HR data into a clear, structured, and visual format
 
 The project highlights strong capabilities in Excel-based analytics, data preparation, and dashboard reporting.
 
+<img width="1402" height="615" alt="Screenshot 2025-12-28 205923" src="https://github.com/user-attachments/assets/8f16ef52-3fd0-4c31-a12f-4f15b82b4069" />
+
+
 🎯 **Business Objective**
 
 The dashboard is designed to help organizations:
