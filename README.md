@@ -81,7 +81,98 @@ It provides a high-level view of sales trends and performance metrics to support
 ➤ Business-focused dashboard design
 
 
-## 2️⃣ Sanu Group Sales Dashboard | Excel
+## 3. 📊 Fyrex Ecommerce Excel Sales Analytics Dashboard
+
+📌 **Project Overview**
+
+This project presents a comprehensive Sales Analytics Dashboard built in Microsoft Excel, using structured transactional sales data.
+The dashboard delivers actionable insights into sales performance, profitability, customer segments, and geographic trends through multiple interactive and visual reporting sheets.
+
+It demonstrates advanced use of Excel analytics, KPI tracking, and dashboard visualization techniques.
+
+<img width="1192" height="634" alt="Screenshot 2025-12-28 213555" src="https://github.com/user-attachments/assets/4661fc24-aedf-431e-a6be-b925b0af90ee" />
+
+
+**Key Insights**:
+
+The analysis is based on a detailed sales dataset containing:
+
+➤ Order and shipping dates (with yearly tracking)
+
+➤ Customer details and market segments (Consumer, Corporate, Home Office)
+
+➤ Product hierarchy (Category, Sub-Category, Product)
+
+➤ Geographic attributes (Region, State, City)
+
+➤ Sales metrics: Sales, Quantity, Discount, Profit
+
+➤ KPI & KPI YoY Analysis
+
+➤ Key metrics including Sales, Profit, Quantity, and Orders
+
+➤ Year-over-Year (YoY) performance comparison
+
+➤ Quick performance monitoring for decision-makers
+
+➤ Identification of high-performing and loss-making segments
+
+➤ Percentage contribution analysis
+
+➤ Geographic Analysis (Map Chart) with sales distribution across states and regions
+
+➤ Bar Chart (Top & Bottom Performance)
+
+
+## 4. 📊 Gatoes Sales Performance Dashboard
+
+📌 **Project Overview**
+
+This project features a Sales Performance Dashboard built in Microsoft Excel, developed using transactional sales data.
+The dashboard provides clear insights into sales, profit, customer behavior, and geographic performance, enabling business users to evaluate performance trends and make data-driven decisions.
+
+The solution demonstrates advanced Excel analytics and dashboarding skills, combining structured data, calculations, and visual reporting.
+
+<img width="1601" height="604" alt="Screenshot 2025-12-28 214308" src="https://github.com/user-attachments/assets/5ddec84e-c4a9-4848-ad0d-c57257b46335" />
+
+
+📊 **Dashboard Components & Insights**
+
+The analysis is based on a structured sales dataset containing:
+
+🔹 Sales by Category
+
+➤ Visual breakdown of total sales across product categories
+
+➤ Helps identify top-contributing categories and revenue drivers
+
+🔹 Profit Gained
+
+➤ Analysis of profit distribution across products and categories
+
+➤ Highlights loss-making vs profitable segments
+
+🔹 Monthly Sales Trend
+
+➤ Time-series view of sales performance by month
+
+➤ Enables identification of seasonality and growth patterns
+
+🔹 Top 5 Customers
+
+➤ Identifies the highest-value customers based on sales
+
+🔹 Sales by State
+
+➤ Geographic visualization of sales performance across states
+
+
+## 5. 📊 Mococto Sales Analytics Dashboard
+
+
+
+
+## 6. Sanu Group Sales Dashboard | Excel
 
 📌 **Project Overview**
 
