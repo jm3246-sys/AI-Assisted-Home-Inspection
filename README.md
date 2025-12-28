@@ -16,7 +16,43 @@ These projects demonstrate strong skills in Excel analytics, data summarization,
 
 📁 **Dashboards Included**
 
-## 1️⃣ **Sales Performance Dashboard (Excel)**
+## 1️⃣ **Cyera HR Employee Analytics Dashboard | Excel**
+
+📌 **Project Overview**
+
+This project presents an HR Employee Analytics Dashboard built using Microsoft Excel to analyze workforce data and deliver insights related to employee demographics, distribution, and organizational metrics.
+The dashboard transforms raw HR data into a clear, structured, and visual format, enabling HR teams and leadership to make informed people-centric decisions.
+
+The project highlights strong capabilities in Excel-based analytics, data preparation, and dashboard reporting.
+
+<img width="1402" height="615" alt="Screenshot 2025-12-28 205923" src="https://github.com/user-attachments/assets/8f16ef52-3fd0-4c31-a12f-4f15b82b4069" />
+
+
+🎯 **Business Objective**
+
+The dashboard is designed to help organizations:
+
+➤ Understand employee demographics and workforce composition
+
+➤ Analyze department and role-based distribution
+
+➤ Track key HR metrics at a glance
+
+➤ Support data-driven HR planning and reporting
+
+📊 **Key Insights from the Dashboard**
+
+➤ Overall employee headcount overview
+
+➤ Workforce distribution across departments and roles
+
+➤ Demographic insights such as gender and age analysis
+
+➤ Identification of workforce concentration and patterns
+
+➤ Consolidated HR KPIs for management reporting
+
+## 2️⃣ **Excel Sales Performance Dashboard**
 
 Description:
 
@@ -82,38 +118,4 @@ The primary goal of this dashboard is to:
 ➤ Consolidated KPIs for management-level reporting
 
 
-## 3. **Cyera HR Employee Analytics Dashboard | Excel**
-
-📌 **Project Overview**
-
-This project presents an HR Employee Analytics Dashboard built using Microsoft Excel to analyze workforce data and deliver insights related to employee demographics, distribution, and organizational metrics.
-The dashboard transforms raw HR data into a clear, structured, and visual format, enabling HR teams and leadership to make informed people-centric decisions.
-
-The project highlights strong capabilities in Excel-based analytics, data preparation, and dashboard reporting.
-
-<img width="1402" height="615" alt="Screenshot 2025-12-28 205923" src="https://github.com/user-attachments/assets/8f16ef52-3fd0-4c31-a12f-4f15b82b4069" />
-
-
-🎯 **Business Objective**
-
-The dashboard is designed to help organizations:
-
-➤ Understand employee demographics and workforce composition
-
-➤ Analyze department and role-based distribution
-
-➤ Track key HR metrics at a glance
-
-➤ Support data-driven HR planning and reporting
-
-📊 **Key Insights from the Dashboard**
-
-➤ Overall employee headcount overview
-
-➤ Workforce distribution across departments and roles
-
-➤ Demographic insights such as gender and age analysis
-
-➤ Identification of workforce concentration and patterns
-
-➤ Consolidated HR KPIs for management reporting
+## 3. 
