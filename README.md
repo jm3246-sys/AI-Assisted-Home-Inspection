@@ -169,7 +169,36 @@ The analysis is based on a structured sales dataset containing:
 
 ## 5. 📊 Mococto Sales Analytics Dashboard
 
+📌 **Project Overview**
 
+This repository contains a professional Excel Sales Analysis Dashboard designed to track business performance against targets and support data-driven decision-making.
+The dashboard transforms raw sales data into clear KPIs, insights, and visual storytelling, making it suitable for management reviews and business analysis use cases.
+
+
+<img width="1585" height="601" alt="Screenshot 2025-12-28 201333" src="https://github.com/user-attachments/assets/9defa0f1-43ad-4c48-b4f1-5f3e29b92177" />
+
+
+🎯 **Key Objectives**
+
+➤ Monitor Actual vs Target performance
+
+➤ Track core business KPIs at a glance
+
+➤ Provide a clean, executive-ready dashboard experience
+
+➤ Enable quick insights without technical complexity
+
+📈 **Key KPIs Tracked**
+
+The dashboard focuses on high-impact business metrics, including:
+
+➤ Total Sales (Actual vs Target)
+
+➤ Total Profit (Actual vs Target)
+
+➤ Customer Count (Actual vs Target)
+
+➤ Performance gaps & achievement levels
 
 
 ## 6. Sanu Group Sales Dashboard | Excel
@@ -207,6 +236,3 @@ The primary goal of this dashboard is to:
 ➤ Identification of top-performing and low-performing areas
 
 ➤ Consolidated KPIs for management-level reporting
-
-
-## 3. 
